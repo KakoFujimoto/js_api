@@ -1,1 +1,1 @@
-# quelcode-js
+# 天気予報API（JavaScript）
